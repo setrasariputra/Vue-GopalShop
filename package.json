@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@egjs/vue3-flicking": "^4.10.7",
     "vue": "^3.2.47",
-    "vue-router": "^4.2.2"
+    "vue-router": "^4.2.2",
+    "vueperslides": "^3.5.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",
